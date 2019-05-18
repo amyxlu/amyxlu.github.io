@@ -1,17 +1,15 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: # you@example.com
+name: Amy X. Lu
+email:
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Academic homepage of Amy Lu.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Theme by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: # /al-folio # the subpath of your site, e.g. /blog/
 last_updated: 2019-05-18 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
@@ -24,15 +22,15 @@ scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-contact_note: # A little blurb beneath the email icon 
+contact_note: # A little blurb beneath the email icon
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Blog.
-blog_description: Thoughts on machine learning, computational biology, and science.
+blog_name: Coming soon.
+blog_description: Thoughts on machine learning and computational biology. Waiting to flesh them out for the Internet.
 
 # Pagination
 paginate: 4
@@ -48,7 +46,7 @@ text:
 # disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
+show_social_icons:  true
 enable_anchorjs:    false
 enable_katex:       true
 
