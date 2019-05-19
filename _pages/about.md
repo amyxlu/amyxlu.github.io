@@ -8,16 +8,16 @@ profile:
   align: right
   image: green.jpg
   address: >
-    <p>amyxlu <at> cs <dot> toronto <dot> edu</p>
+    <p>email: amyxlu [at] cs [dot] toronto [dot] edu</p>
 
 news: false
 social: true
 ---
 
-My research interests center around this question: **how can we take recent breakthroughs in deep learning beyond classifying cat videos to tackle "impossible" medical problems?**
+My research interests center around the question: **how can we take recent breakthroughs in deep learning beyond classifying cat videos to tackle "impossible" medical problems?**
 
 Specifically, I am interested in personalized medicine and drug discovery from -omics data, using methods from natural language processing (NLP) and computer vision. I am also broadly interested in protein engineering, clinical decision support, and metagenomics.
 
 I am currently in the first year of my Masters at the [University of Toronto](https://vectorinstitute.ai) and the [Vector Institute for Artificial Intelligence](http://web.cs.toronto.edu/), advised by [Dr. Alan Moses](http://www.moseslab.csb.utoronto.ca/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), and funded by the [NSERC CGS-M scholarship](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp). I am a part-time associated personnel with [Boston Children's Hospital](https://www.childrenshospital.org/research). In addition, I work with [SVAI](https://sv.ai/), a non-profit connecting rare disease patients, researchers, and industry partners.
 
-My research interests are shaped by wonderful mentors at [Harvard Medical School](https://www.slizlab.org/), [University of Waterloo](http://doxey.uwaterloo.ca/), [École polytechnique fédérale de Lausanne](https://lbm.epfl.ch/), and [Leslie Dan Faculty of Pharmacy](http://phm.utoronto.ca/~cadarette/). I can probably ramble on about solo traveling adventures such as Egypt, Bosnia, and Serbia. In my spare time, I like reading, biking, making piano hip-hop covers, good journalism, and 90% dark chocolate.
+My research interests are shaped by wonderful mentors at [Harvard Medical School](https://www.slizlab.org/), [University of Waterloo](http://doxey.uwaterloo.ca/), [École polytechnique fédérale de Lausanne](https://lbm.epfl.ch/), and [Leslie Dan Faculty of Pharmacy](http://phm.utoronto.ca/~cadarette/). In my spare time, I like reading, biking, making piano hip-hop covers, good journalism, and 90% dark chocolate. I also love solo traveling, including adventures in Egypt, Serbia, and Bosnia.

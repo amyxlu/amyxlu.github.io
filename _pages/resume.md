@@ -15,6 +15,8 @@ Prior to EPFL, I learned to code while working on data visualization and pharmac
 
 Prior to that, I was in a [pre-admission to pharmacy](https://uwaterloo.ca/pharmacy/future-students/conditional-admission-pharmacy-cap) undergraduate program, but became fascinated enough with the world of computer science to forego the pharmacist trajectory.
 
-My BSc is from the University of Waterloo. My formative experiences here include befriending diverse students and supporting mental health crises as a Residence Life Don, living in the residence program of a start-up incubator, and making cool things with cool people at hackathons. The most eye-opening experience of my life, though, was working in a [rural hospital in Tanzania](https://www.flickr.com/photos/mediciconlafrica/sets/72157632578798992/), which cemented my desire to work in healthcare.
+I obtained my Bachelor of Science from the University of Waterloo. My formative experiences here include befriending diverse students and supporting mental health crises as a Residence Life Don, living in the residence program of a start-up incubator, and making cool things with cool people at hackathons. The most eye-opening experience of my life, though, was working in a [rural hospital in Tanzania](https://www.flickr.com/photos/mediciconlafrica/sets/72157632578798992/), which cemented my desire to work in healthcare.
 
-Here is a resume, but it is probably outdated, and certainly incompletely captures my passions. Feel free to reach out at amyxlu <at> cs <dot> toronto <dot> edu or chat in-person instead; I'd love to learn from other humans (like yourself!).
+:small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
+
+_Here is a [resume](/assets/AmyLuCV190224.pdf), but it is probably outdated, and certainly incompletely captures my passions. Feel free to reach out at amyxlu [at] cs [dot] toronto [dot] edu or chat in-person instead; I'd love to learn from other humans like yourself._

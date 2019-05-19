@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Amy X. Lu
+name: Amy Lu | Homepage
 email:
 description: > # this means to ignore newlines until "url:"
   Academic homepage of Amy Lu.
@@ -29,8 +29,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Coming soon.
-blog_description: Thoughts on machine learning and computational biology. Waiting to flesh them out for the Internet.
+blog_name: Blog.
+blog_description: Thoughts on machine learning and computational biology.
 
 # Pagination
 paginate: 4
@@ -83,7 +83,7 @@ plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
-
+    - jekyll-seo-tag
 # Jekyll-Scholar
 scholar:
 
