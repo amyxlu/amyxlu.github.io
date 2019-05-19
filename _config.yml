@@ -6,7 +6,8 @@ email:
 description: > # this means to ignore newlines until "url:"
   Academic homepage of Amy Lu.
 footer_text: >
-  Theme by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+    Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/
