@@ -2,9 +2,9 @@
 layout: page
 permalink: /resume/
 title: resume
-description: (aka experiences and people to be grateful for)
+description: experiences and people to appreciate
 ---
-_Here is a [resume]({{ site.url }}/assets/AmyLuCV.pdf), but it is probably outdated, and certainly incompletely captures my passions. Feel free to reach out at amyxlu [at] cs [dot] toronto [dot] edu or chat in-person instead; I'd love to learn from other humans (like yourself!)._
+_Here is a [resume](/assets/AmyLuCV.pdf), but it is probably outdated, and certainly incompletely captures my passions. Feel free to reach out at amyxlu [at] cs [dot] toronto [dot] edu or chat in-person instead; I'd love to learn from other humans (like yourself!)._
 
 :small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
 
