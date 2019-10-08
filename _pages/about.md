@@ -14,7 +14,7 @@ news: false
 social: true
 ---
 
-My research interests center around the question: **how can we develop biologically-inspired machine learning algorithms to solve difficult medical problems**, with the same level of real-world success as in computer vision and NLP?
+My research interests center around the question: **how can we develop biologically-principled machine learning algorithms to solve difficult medical problems**, with the same level of real-world success as in computer vision and NLP?
 
 Specifically, I am interested in using self-supervised techniques to develop generalizable representations for genomic sequences, by improving upon new algorithms in computer vision and natural language processing (NLP). I am also broadly interested in protein engineering, algorithmic fairness, and clinical decision support.
 
