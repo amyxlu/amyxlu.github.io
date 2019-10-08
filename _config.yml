@@ -11,7 +11,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/
-last_updated: 2019-05-18 # leave blank if you don't want to display last updated
+last_updated: 2019-10-07 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -30,26 +30,26 @@ google_analytics: UA-140397574-1
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Blog.
-blog_description: Thoughts on machine learning and computational biology.
-
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
-
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-
-# Comments
-# disqus_shortname: al-folio # put your disqus shortname
-
-# Optional features
-show_social_icons:  true
-enable_anchorjs:    false
-enable_katex:       true
+# blog_name: Blog.
+# blog_description: Thoughts on machine learning and computational biology.
+# 
+# # Pagination
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
+# 
+# text:
+#   pagination:
+#     newer: 'Newer'
+#     older: 'Older'
+# 
+# # Comments
+# # disqus_shortname: al-folio # put your disqus shortname
+# 
+# # Optional features
+# show_social_icons:  true
+# enable_anchorjs:    false
+# enable_katex:       true
 
 # -----------------------------------------------------------------------------
 # Collections
