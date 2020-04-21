@@ -19,7 +19,3 @@ Prior to Harvard, I was writing my [undergraduate thesis](https://github.com/amy
 Prior to my undergraduate thesis, I spent a summer at [EPFL](http://lbm.epfl.ch/) in Switzerland, using molecular dynamics to simulate enzyme-membrane interactions, and catching the train at Gare de Renens on Friday evenings (10 countries were checked-off altogether!).
 
 Prior to EPFL, I learned to code while working on data visualization and pharmacoepidemiology with the [U of Toronto Faculty of Pharmacy](https://pharmacy.utoronto.ca/users/cadarette-s/). Prior to that, I was in a [pre-admission to pharmacy](https://uwaterloo.ca/pharmacy/future-students/conditional-admission-pharmacy-cap) undergraduate program, but became fascinated enough with the world of computer science to forego the pharmacist trajectory.
-
-:small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
-
-My Bachelor of Science is from the [University of Waterloo](https://uwaterloo.ca/science/); formative experiences here include supporting diverse students as a Residence Life Don, living in the residence program of a [start-up incubator](http://velocity.uwaterloo.ca/), and planning Orientation Week. The most eye-opening, though, was working in a rural hospital in Tanzania, which helped me see the needs of changing healthcare at scale.
