@@ -1,21 +1,25 @@
 ---
 layout: page
-permalink: /resume/
-title: resume
-description: experiences and people to appreciate
+permalink: /cv/
+title: curriculum vitae
+description: 
 ---
-_Here is a [resume](/assets/AmyLuCV.pdf), but it is probably outdated, and certainly incompletely captures my passions. Feel free to reach out at amyxlu [at] cs [dot] toronto [dot] edu or chat in-person instead; I'd love to learn from other humans (like yourself!)._
+_[Here](/assets/AmyLuCV.pdf) is my CV, but it is probably outdated, and certainly incompletely captures my passions. Feel free to reach out instead at amyxlu [at] cs [dot] toronto [dot] edu._
 
 :small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
 
-Prior to U of T/Vector, I spent 6 great months at [Harvard Medical School](https://www.scholars.hms.harvard.edu/) applying machine learning to uncover the genomic causes of epilepsy, and breathing in nightly views of the Charles River on my bike.
+I am currently a Masters candidate at the [Vector Institute](https://vectorinstitute.ai/), working on self-supervised learning for protein sequences, and learning to bike in the winter.  
 
-Prior to Harvard, I wrote my [undergraduate thesis](https://github.com/amyxlu/femur-enhancers/blob/master/thesis.pdf) on interpretable convolutional neural networks and femur growth plate genomic regulation, advised by [Dr. Andrew Doxey](http://doxey.uwaterloo.ca/index.html).
+During my Masters, I was a Visiting Student Researcher at [Stanford University](anshul.kundaje.net), exploring domain adaptation in genomics, and standing in line at the Salt and Straw in Downtown Palo Alto.
 
-Prior to my undergraduate thesis, I spent a summer at EPFL in Switzerland, using molecular dynamics simulations to understand mechanisms of antibiotic resistance, funded by the [Scholarship of Excellence in Research](https://www.epfl.ch/schools/sv/education/summer-research-program/).
+Prior to my Masters, I spent 6 great months at [Harvard Medical School](https://www.scholars.hms.harvard.edu/), using machine learning to understand the genetics of epilepsy, and breathing in nightly views of the Charles River on my bike.
 
-Prior to EPFL, I learned to code while working on data visualization and pharmacoepidemiology with the [U of Toronto Faculty of Pharmacy](https://pharmacy.utoronto.ca/users/cadarette-s/).
+Prior to Harvard, I was writing my [undergraduate thesis](https://github.com/amyxlu/femur-enhancers/blob/master/thesis.pdf) on interpreting convolutional neural networks to understand enhancer motifs regulating femur growth, and avoiding the infamous geese of Waterloo.
 
-Prior to that, I was in a [pre-admission to pharmacy](https://uwaterloo.ca/pharmacy/future-students/conditional-admission-pharmacy-cap) undergraduate program, but became fascinated enough with the world of computer science to forego the pharmacist trajectory.
+Prior to my undergraduate thesis, I spent a summer at [EPFL](http://lbm.epfl.ch/) in Switzerland, using molecular dynamics to simulate enzyme-membrane interactions, and catching the train at Gare de Renens on Friday evenings (10 countries were checked-off altogether!).
 
-I obtained my Bachelor of Science from the University of Waterloo. My formative experiences here include befriending diverse students and supporting mental health crises as a Residence Life Don, living in the residence program of the [Velocity start-up incubator](http://velocity.uwaterloo.ca/), and making cool things and winning cool prizes at hackathons. The most eye-opening experience of my life, though, was working in a [rural hospital in Tanzania](https://www.flickr.com/photos/mediciconlafrica/sets/72157632578798992/), which cemented my desire to work in healthcare.
+Prior to EPFL, I learned to code while working on data visualization and pharmacoepidemiology with the [U of Toronto Faculty of Pharmacy](https://pharmacy.utoronto.ca/users/cadarette-s/). Prior to that, I was in a [pre-admission to pharmacy](https://uwaterloo.ca/pharmacy/future-students/conditional-admission-pharmacy-cap) undergraduate program, but became fascinated enough with the world of computer science to forego the pharmacist trajectory.
+
+:small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
+
+My Bachelor of Science is from the [University of Waterloo](https://uwaterloo.ca/science/); formative experiences here include supporting diverse students as a Residence Life Don, living in the residence program of a [start-up incubator](http://velocity.uwaterloo.ca/), and planning Orientation Week. The most eye-opening, though, was working in a rural hospital in Tanzania, which helped me see the needs of changing healthcare at scale.
