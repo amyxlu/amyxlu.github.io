@@ -16,6 +16,6 @@ Prior to my Masters, I spent 6 great months at [Harvard Medical School](https://
 
 Prior to Harvard, I was writing my [undergraduate thesis](https://github.com/amyxlu/femur-enhancers/blob/master/thesis.pdf) on interpreting convolutional neural networks to understand enhancer motifs regulating femur growth, and avoiding the infamous geese of Waterloo.
 
-Prior to my undergraduate thesis, I spent a summer at [EPFL](http://lbm.epfl.ch/) in Switzerland, using molecular dynamics to simulate enzyme-membrane interactions, and catching the train at Gare de Renens on Friday evenings (10 countries were checked-off altogether!).
+Prior to my undergraduate thesis, I spent a summer at [EPFL](http://lbm.epfl.ch/) in Switzerland, using molecular dynamics to simulate enzyme-membrane interactions, and catching the train at Gare de Lausanne on Friday evenings (10 countries were checked-off altogether!).
 
 Prior to EPFL, I learned to code while working on data visualization and pharmacoepidemiology with the [U of Toronto Faculty of Pharmacy](https://pharmacy.utoronto.ca/users/cadarette-s/). Prior to that, I was in a [pre-admission to pharmacy](https://uwaterloo.ca/pharmacy/future-students/conditional-admission-pharmacy-cap) undergraduate program, but became fascinated enough with the world of computer science to forego the pharmacist trajectory.
