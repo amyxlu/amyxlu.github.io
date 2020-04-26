@@ -14,7 +14,7 @@ During my Masters, I was a Visiting Student Researcher at [Stanford University](
 
 Prior to my Masters, I spent 6 great months at [Harvard Medical School](https://www.scholars.hms.harvard.edu/), using machine learning to understand genomic variants associated with childhood epilepsy, and breathing in nightly views of the Charles River on my bike.
 
-Prior to Harvard, I was writing my [undergraduate thesis](https://github.com/amyxlu/femur-enhancers/blob/master/thesis.pdf) on interpreting convolutional neural networks to understand enhancer motifs regulating femur growth, and being a Residence Don at the University of Waterloo.
+Prior to Harvard, I was writing my [undergraduate thesis](http://doxey.uwaterloo.ca/) on interpreting convolutional neural networks to understand enhancer motifs regulating femur growth, and being a Residence Don at the University of Waterloo.
 
 Prior to my undergraduate thesis, I spent a summer at [EPFL](http://lbm.epfl.ch/) in Switzerland, using molecular dynamics to simulate enzyme-membrane interactions, and catching the train at Gare de Lausanne on Friday evenings (10 countries were checked off altogether!).
 
