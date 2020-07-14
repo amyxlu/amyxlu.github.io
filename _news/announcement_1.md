@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-07-01 
 inline: true
 ---
 
-A simple inline announcement.
+Very excited to join the wonderful team at [insitro](https://insitro.com/).

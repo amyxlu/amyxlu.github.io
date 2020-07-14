@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-03-05
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our work on [quantifying biases in medical note word embeddings](https://dl.acm.org/doi/abs/10.1145/3368555.3384448) is accepted as a [Spotlight at ACM CHIL](https://www.chilconference.org/).

@@ -10,14 +10,12 @@ profile:
   address: >
     <p>email: amyxlu [at] cs [dot] toronto [dot] edu</p>
 
-news: false
+news: true 
 social: true
 ---
 
-My research interests center around the question: **how can we develop biologically-principled machine learning algorithms to solve difficult medical problems**, with the same level of real-world success as in computer vision and text?
+My research interests center around the question: **how can we develop generalizable and interpretable machine learning methods for the unique needs of biomedical data?**
 
-Specifically, I am interested in using self-supervised techniques to develop generalizable representations for genomic sequences. I am also broadly interested in protein engineering, algorithmic fairness, and clinical decision support.
+I am currently working on this problem at [insitro](insitro.com). I completed my Masters at the [University of Toronto](https://vectorinstitute.ai) and the [Vector Institute for Artificial Intelligence](http://web.cs.toronto.edu/), advised by [Dr. Alan Moses](http://www.moseslab.csb.utoronto.ca/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), funded by the [NSERC CGS-M award](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp). I partially completed my Masters as a Visiting Student Researcher in [Dr. Anshul Kundaje](http://anshul.kundaje.net)'s group at [Stanford University](https://www.stanford.edu/), as a recipient of the [NSERC CGS-MSFSS](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsforeignstudy-bescetudeetranger_eng.asp) scholarship.
 
-I am currently pursuing my Masters at the [University of Toronto](https://vectorinstitute.ai) and the [Vector Institute for Artificial Intelligence](http://web.cs.toronto.edu/), advised by [Dr. Alan Moses](http://www.moseslab.csb.utoronto.ca/) and [Dr. Marzyeh Ghassemi](http://www.marzyehghassemi.com/), as a recipient of a [NSERC CGS-M award](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_eng.asp). I partially completed my Masters as a Visiting Student Researcher in [Dr. Anshul Kundaje](http://anshul.kundaje.net)'s group at [Stanford University](https://www.stanford.edu/). In addition, I work with [Research to the People](https://www.researchtothepeople.org/), a non-profit connecting patients of complex diseases, researchers, and industry partners. 
-
-My research interests are shaped by wonderful mentors at [Harvard Medical School](https://www.slizlab.org/), [University of Waterloo](http://doxey.uwaterloo.ca/) and [École polytechnique fédérale de Lausanne](https://lbm.epfl.ch/). In my spare time, I like reading, biking, making piano hip-hop covers, good journalism, and 90% dark chocolate. I also love solo traveling, including adventures in Egypt, Serbia, and Bosnia.
+My research interests were shaped by wonderful mentors at [Harvard Medical School](https://www.slizlab.org/), [University of Waterloo](http://doxey.uwaterloo.ca/) and [École polytechnique fédérale de Lausanne](https://lbm.epfl.ch/). I work with [Research to the People](https://www.researchtothepeople.org/), a non-profit connecting patients of complex diseases, researchers, and industry partners. In my spare time, I enjoy making piano hip-hop covers, good journalism, and 90% dark chocolate. I also love solo traveling, including adventures in Egypt, Bosnia and Herzegovina, Serbia, and Tanzania.

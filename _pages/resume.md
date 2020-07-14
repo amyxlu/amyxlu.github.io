@@ -4,11 +4,13 @@ permalink: /cv/
 title: curriculum vitae
 description: 
 ---
-_[Here](/assets/AmyLuCV.pdf) is my CV, but it is probably outdated, and certainly incompletely captures my passions. Feel free to reach out instead at amyxlu [at] cs [dot] toronto [dot] edu._
+_[Here is my CV](/assets/AmyLuCV.pdf), but it is probably outdated, and certainly is an incomplete picture. Feel free to reach out instead at amyxlu [at] cs [dot] toronto [dot] edu._
 
 :small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
 
-I am currently a Masters candidate at the [Vector Institute](https://vectorinstitute.ai/), working on self-supervised representation learning for protein sequences, and learning to bike in the winter.  
+I am currently at [insitro](insitro.com), grateful to learn from a team with the strong talent and leadership to do great things.
+
+Previously, I completed my Masters of Computer Science at the [Vector Institute](https://vectorinstitute.ai/), working on self-supervised representation learning for protein sequences, and learning to bike in the winter.  
 
 During my Masters, I was a Visiting Student Researcher at [Stanford University](anshul.kundaje.net), exploring domain adaptation in transcription factor binding, and standing in line at the Salt and Straw in Downtown Palo Alto.
 
