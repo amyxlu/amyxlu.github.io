@@ -8,9 +8,9 @@ description:
 
 :small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
 
-I am currently at [insitro](insitro.com), grateful to learn from a team with the strong talent and leadership to do great things.
+I am currently at [insitro](https://insitro.com/), grateful to learn from a team with the strong talent and leadership to do great things.
 
-Previously, I completed my Masters of Computer Science at the [Vector Institute](https://vectorinstitute.ai/), working on self-supervised representation learning for protein sequences, and learning to bike in the winter.  
+Prior to insitro, I completed my Masters of Computer Science at the [Vector Institute](https://vectorinstitute.ai/), working on self-supervised representation learning for protein sequences, and learning to bike in the winter.  
 
 During my Masters, I was a Visiting Student Researcher at [Stanford University](anshul.kundaje.net), exploring domain adaptation in transcription factor binding, and standing in line at the Salt and Straw in Downtown Palo Alto.
 
