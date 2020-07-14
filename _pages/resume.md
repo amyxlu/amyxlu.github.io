@@ -4,7 +4,7 @@ permalink: /cv/
 title: curriculum vitae
 description: 
 ---
-_[Here is my CV](/assets/AmyLuCV.pdf), but it is probably outdated, and certainly is an incomplete picture. Feel free to reach out instead at amyxlu [at] cs [dot] toronto [dot] edu._
+[Here is my CV](/assets/AmyLuCV.pdf), but it is probably outdated, and certainly paints an incomplete picture. Feel free to reach out instead at amyxlu [at] cs [dot] toronto [dot] edu.
 
 :small_blue_diamond:  :small_blue_diamond:  :small_blue_diamond:
 
