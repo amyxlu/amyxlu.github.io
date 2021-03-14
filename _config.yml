@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Amy Lu
-email:
+title: 
+email: amyxlu@cs.toronto.edu
 description: > # this means to ignore newlines until "url:"
   Academic homepage of Amy Lu.
 footer_text: >
