@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
+description: Explorations of machine learning and computational biology.
 years: [2020, 2019, 2018]
 ---
 
