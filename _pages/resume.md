@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: curriculum vitae
+title: cv
 description: 
 ---
 [Here is my CV](/assets/AmyLuCV.pdf), but it is probably outdated, and certainly paints an incomplete picture. Feel free to reach out instead at amyxlu [at] cs [dot] toronto [dot] edu.
