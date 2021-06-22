@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Explorations of machine learning and computational biology.
+description: Conference and workshop papers exploring machine learning and computational biology.
 years: [2021, 2020, 2019, 2018]
 ---
 
