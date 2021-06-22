@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Explorations of machine learning and computational biology.
-years: [2020, 2019, 2018]
+years: [2021, 2020, 2019, 2018]
 ---
 
 {% for y in page.years %}
